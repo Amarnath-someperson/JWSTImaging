@@ -1,0 +1,6 @@
+os
+shutil
+colorama
+json
+requests
+deoldify.visualize
