@@ -1,5 +1,5 @@
 import os
-
+import fastai
 from deoldify.visualize import *
 
 colorizer = get_image_colorizer(artistic=True)

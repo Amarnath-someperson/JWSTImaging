@@ -1,8 +1,29 @@
 {
     "images": [
-        "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02731001001_02105_00004_nrca1_cal.jpg"
+        "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02731001001_02105_00004_nrca1_cal.jpg",
+        "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02731001001_02103_00001_nrcblong_cal.jpg"
     ],
     "descriptions": [
+        {
+            "detail": [
+                {
+                    "instrument": "FGS"
+                },
+                {
+                    "instrument": "NIRCam"
+                },
+                {
+                    "instrument": "NIRISS"
+                },
+                {
+                    "instrument": "NIRSpec"
+                },
+                {
+                    "instrument": "MIRI"
+                }
+            ],
+            "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+        },
         {
             "detail": [
                 {
