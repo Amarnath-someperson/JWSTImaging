@@ -1,0 +1,3 @@
+import replicate
+
+export REPLICATE_API_TOKEN = r8_4ebn9ahTy6TzPNR3AfcKAxXOQubSq2f11tPDj
