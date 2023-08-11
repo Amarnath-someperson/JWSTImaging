@@ -1,3 +1,5 @@
+import os
+
 from deoldify.visualize import *
 
 colorizer = get_image_colorizer(artistic=True)
