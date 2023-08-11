@@ -1,6 +1,8 @@
 os
 shutil
-colorama
+colorama~=0.4.6
 json
-requests
+requests~=2.31.0
 deoldify.visualize
+
+deoldify~=0.0.1
